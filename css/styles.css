@@ -42,7 +42,7 @@ img{
 }
 .feature-card .icon{
     background-color: white;
-    border-radius: 15px;
+    border-radius: 10px;
     width: 4rem;
     height: 4rem;
     display: grid;
@@ -54,4 +54,19 @@ img{
 }
 .feature-card .icon i{
     font-size: 2rem;
+}
+
+.section-img-80{
+    width: 80%;
+}
+.section-img-100{
+    width: 100%;
+}
+.section-video{
+    width: 100%;
+    aspect-ratio: 3 / 2;
+}
+.section-title{
+    font-size: 3rem;
+    font-family: 'Noto Serif', serif;
 }
